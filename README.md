@@ -1,6 +1,6 @@
 # Asset-Management-Challenge
 
-Here, you will find the Excel file (*AMC round 3.xlsx*) that summarizes the results obtained by the portfolio built during the Asset Management Challenge, as well as some portfolio analyses such as Bogey decomposition, Kolmogorov-Smirnov test, and macroeconomic drivers.
+The Excel file (AMC Round 3.xlsx) contains a summary of the results from the portfolio built during the Asset Management Challenge, along with analyses including Bogey decomposition, the Kolmogorov-Smirnov test, and an examination of macroeconomic drivers.
 
 
 
